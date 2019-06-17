@@ -1,0 +1,14 @@
+site_name: My Docs
+nav:
+  - Общее описание: index.md
+  - Задание 1: task1.md
+  - Задание 2: 
+      - Общее описание: task2/part1.md
+      - Создание многоуровневого меню: task2/part2.md
+      - Добавление еще одного пункта в меню: task2/part3.md
+  - Задание 3: task3.md
+  - Задание 4: task4.md
+  - Полезные ссылки: links.md
+  - Дополнительная информация: ext_info.md
+
+theme: readthedocs
